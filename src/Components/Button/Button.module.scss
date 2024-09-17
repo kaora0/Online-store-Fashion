@@ -1,0 +1,21 @@
+.buttonka {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  background-color: black;
+  color: white;
+  padding: 15px 22px;
+  border-radius: 7px;
+}
+.buttonka:hover {
+  background-color: white;
+  border: 1px solid black;
+  padding: 14px 21px;
+  color: black;
+}
+.buttonka:active {
+  color: rgba(0, 0, 0, 0.5);
+}
